@@ -34,7 +34,7 @@ export default function Contact() {
                 target="_blank"
                 className="text-blue-600 hover:underline"
               >
-                github.com/your-username
+                 github.com/Pete-Mp256
               </a>
             </p>
 
@@ -45,7 +45,7 @@ export default function Contact() {
                 target="_blank"
                 className="text-blue-600 hover:underline"
               >
-                linkedin.com/in/your-profile
+                www.linkedin.com/in/pete-mbithi-571040368/
               </a>
             </p>
 
