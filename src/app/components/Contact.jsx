@@ -30,7 +30,7 @@ export default function Contact() {
             <p>
               💼 GitHub:{" "}
               <a
-                href="https://github.com/your-username"
+                href="https://github.com/Pete-Mp256"
                 target="_blank"
                 className="text-blue-600 hover:underline"
               >
@@ -41,7 +41,7 @@ export default function Contact() {
             <p>
               🔗 LinkedIn:{" "}
               <a
-                href="https://linkedin.com/in/your-profile"
+                href="https://www.linkedin.com/in/pete-mbithi-571040368/"
                 target="_blank"
                 className="text-blue-600 hover:underline"
               >
