@@ -8,7 +8,7 @@ const projects = [ {
     tech: "React, Firebase",
     description:
       "A web application that allows users to track and visualize carbon emissions using an interactive dashboard.",
-    link: "https://yourprojectlink.com",
+    link: "https://github.com/maina-kelvin/carbon-footprint-tracker",
   },
   {
     title: "E-commerce Website – Pricerite Communications",
@@ -22,7 +22,7 @@ const projects = [ {
     tech: "React, HTML, CSS",
     description:
       "Converted static HTML pages into a fully React-based website with multiple content sections.",
-    link: "https://yourprojectlink.com", 
+    link: "https://github.com/Pete-Mp256/tafakarisymobweb", 
   },
 ]
 
