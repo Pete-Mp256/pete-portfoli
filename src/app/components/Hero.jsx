@@ -32,10 +32,14 @@ export default function Hero() {
         transition={{ delay: 0.4 }}
         className="mt-8 flex gap-4"
       >
-        <Button>View Projects</Button>
-        <a href="/PETE NJAGI.pdf" download>
+       <div className="mt-8 flex gap-4">
+  <a href="#projects">
+    <Button>View Projects</Button>
+  </a>
+        <a href="/PETE NJAGI MBITHI.pdf" download>
           <Button variant="outline">Download CV</Button>
         </a>
+        </div>
       </motion.div>
     </section>
   )
